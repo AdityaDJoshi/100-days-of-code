@@ -4,6 +4,7 @@
 #   *  *  *  Author:Aditya Joshi
 #  *       *
 # *         *
+# https://www.codechef.com/START3B/problems/HIRETEST
 from collections import Counter
 for _ in range(int(input())):
     l = []
