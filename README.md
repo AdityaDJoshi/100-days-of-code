@@ -47,7 +47,7 @@ My attempt at solving a series of questions sourced from a variety of sources in
 
 | ☆   | Problem Link                                                                                                                                                                              | Finished                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| ★☆☆ | [Compiler Version](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/compiler-version-2/)                        | <ul> <li> [ ] </li> </ul> |
+| ★☆☆ | [Compiler Version](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/compiler-version-2/)                        | <ul> <li> [x] </li> </ul> |
 | ★★☆ | [Secrete Messages!](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/secret-messages/)                          | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [String Queries](https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/practice-problems/algorithm/string-queries-1/)                            | <ul> <li> [ ] </li> </ul> |
 | ★★☆ | [Largest Lexicographical Rotation II](https://www.hackerearth.com/practice/algorithms/string-algorithm/string-searching/practice-problems/algorithm/largest-lexicographical-rotation-ii/) | <ul> <li> [ ] </li> </ul> |
