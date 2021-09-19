@@ -2,6 +2,7 @@
     "files.associations": {
         "utility": "cpp",
         "deque": "cpp",
-        "ios": "cpp"
+        "ios": "cpp",
+        "iostream": "cpp"
     }
 }
